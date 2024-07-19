@@ -49,7 +49,10 @@ int main() {
     catch (const std::invalid_argument& e) {
         std::cout << e.what() << std::endl;
     }
-
+    
+    std::cout << "Press Enter to exit...";
+    std::cin.get();    
+    
     return 0;
 }
 
