@@ -8,10 +8,10 @@ to run, compile the project into binary files for your system or download precom
 
 ### Windows
 1. Create a new project in Visual Studio
-2. Use the Windows Desktop Application template
+2. Use the Windows Desktop Application Template
 3. Copy and paste the contents of [coordconv.cpp](https://github.com/flynn-28/coordconvc/blob/main/coordconv.cpp) into the main c++ file
 4. Build the project with the keyboard shortcut CTRL + SHIFT + B
-5. Navigate to the x64 folder in your projects root directory
+5. Navigate to the x64 folder in your project root directory
 6. enter the "debug" folder
 7. run the program with this executable
 
